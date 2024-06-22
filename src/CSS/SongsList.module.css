@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(238, 227, 11); */
+  }
+
+.mdiv{
+  width: 90%;
+  height: 27px;
+  border: 1px solid black;
+  border-radius : 6px ;
+  margin: 2% auto;
+  background-color: blueviolet;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.mdiv, p{
+  padding:0.5% 1%;
+  background-color: violet;
+  border: 1p solid black;
+}
